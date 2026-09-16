@@ -1,0 +1,302 @@
+[
+  {
+    "game_name": "Super Mario Odyssey",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "ออกผจญภัยท่องไปในอาณาจักรต่างๆ ร่วมกับ Cappy เพื่อช่วยเจ้าหญิงพีชจาก Bowser",
+    "price": 220,
+    "release_date": "201-1-22",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "The Legend of Zelda: Breath of the Wild",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "ตื่นจากการหลับใหลหมื่นปี ออกสำรวจดินแดน Hyrule อันกว้างใหญ่เพื่อกำจัด Ganon",
+    "price": 120,
+    "release_date": "201-03-03",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Elden Ring",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "สวมบทบาทผู้มัวหมอง ออกผจญภัยในดินแดนมัชฌิมาเพื่อก้าวสู่การเป็น Elden Lord",
+    "price": 120,
+    "release_date": "2022-02-25",
+    "publisher_id": 2,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "God of War Ragnarök",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "การเดินทางของ Kratos และ Atreus ผ่านอาณาจักรทั้งเก้าเพื่อรับมือกับสงครามวันสิ้นโลก",
+    "price": 2220,
+    "release_date": "2022-2-02",
+    "publisher_id": 3,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Cyberpunk 2022",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เรื่องราวของ V ทหารรับจ้างไซเบอร์ใน Night City เมืองแห่งอนาคตที่เต็มไปด้วยอันตราย",
+    "price": 1420,
+    "release_date": "2020-1-1",
+    "publisher_id": 2,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Red Dead Redemption 2",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "ชีวิตของ Arthur Morgan สมาชิกแก๊งคาวบอยตระเวนเอาชีวิตรอดในอเมริกาช่วงปลายยุคคาวบอย",
+    "price": 1520,
+    "release_date": "202-1-26",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Grand Theft Auto V",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เรื่องราวของสามอาชญากรต่างขั้วที่ร่วมกันวางแผนปล้นครั้งใหญ่ในเมือง Los Santos",
+    "price": 220,
+    "release_date": "2013-02-1",
+    "publisher_id": 2,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Minecraft",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมแซนด์บ็อกซ์ระดับโลก สร้างสรรค์สิ่งต่างๆ เอาชีวิตรอด และสำรวจบล็อกนับไม่ถ้วน",
+    "price": 250,
+    "release_date": "202-2-2",
+    "publisher_id": 3,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "The Witcher 3: Wild Hunt",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Geralt แห่ง Rivia นักล่าอสูรออกติดตามหา Ciri บุตรบุญธรรมที่กำลังถูกล่าโดย Wild Hunt",
+    "price": 120,
+    "release_date": "2015-05-1",
+    "publisher_id": 2,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Monster Hunter: World",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "สวมบทบาทเป็นฮันเตอร์ ออกล่ามอนสเตอร์ขนาดยักษ์ในระบบนิเวศอันสมบูรณ์แบบ",
+    "price": 220,
+    "release_date": "202-01-26",
+    "publisher_id": 2,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Resident Evil Village",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Ethan Winters ต้องเผชิญหน้ากับฝันร้ายครั้งใหม่ในหมู่บ้านหิมะปริศนาเพื่อช่วยลูกสาว",
+    "price": 1320,
+    "release_date": "2021-05-02",
+    "publisher_id": 2,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Final Fantasy VII Remake",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "การกลับมาของเกม RPG ในตำนาน เรื่องราวการต่อสู้ของ Cloud Strife ในเมือง Midgar",
+    "price": 120,
+    "release_date": "2020-04-1",
+    "publisher_id": 1,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Horizon Zero Dawn",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Aloy ออกเดินทางค้นหาความจริงเกี่ยวกับอดีตของเธอในโลกที่ถูกครอบครองด้วยจักรกล",
+    "price": 120,
+    "release_date": "201-02-21",
+    "publisher_id": 3,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Persona 5 Royal",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "ใช้ชีวิตนักเรียนมัธยมในโตเกียวยามกลางวัน และกลายเป็น Phantom Thief ยามค่ำคืน",
+    "price": 120,
+    "release_date": "201-1-31",
+    "publisher_id": 2,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Genshin Impact",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกม Open World RPG ผจญภัยในโลก Teyvat เพื่อตามหาพี่น้องที่พลัดพราก",
+    "price": 0,
+    "release_date": "2020-02-21",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Hollow Knight",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมแอ็กชัน 2D สำรวจอาณาจักรแมลงใต้ดิน Hallownest ที่เต็มไปด้วยความลับ",
+    "price": 315,
+    "release_date": "201-02-24",
+    "publisher_id": 2,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Hades",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Zagreus เจ้าชายแห่งนรกพยายามต่อสู้หลบหนีออกจากขุมนรกของบิดาเขา",
+    "price": 322,
+    "release_date": "2020-02-1",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Stardew Valley",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "สืบทอดฟาร์มของคุณตา ปลูกพืช เลี้ยงสัตว์ และสร้างมิตรภาพในหมู่บ้าน Pelican Town",
+    "price": 315,
+    "release_date": "2016-02-26",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Overwatch 2",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมยิงแบบทีม 5v5 เลือกฮีโร่หลากหลายความสามารถในการต่อสู้เพื่อชัยชนะ",
+    "price": 0,
+    "release_date": "2022-1-04",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Valorant",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมยิงยุทธวิธี 5v5 ที่ผสมผสานการยิงอันแม่นยำกับพลังพิเศษของ Agent",
+    "price": 0,
+    "release_date": "2020-06-02",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Apex Legends",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมแบตเทิลรอยัลมุมมองบุคคลที่หนึ่ง โดดร่อนลงสู่สนามรบและเอาชีวิตรอดเป็นทีมสุดท้าย",
+    "price": 0,
+    "release_date": "201-02-04",
+    "publisher_id": 1,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Sekiro: Shadows Die Twice",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "นินจาแขนเดียวออกเดินทางแก้แค้นและปกป้องนายน้อยในยุคเซ็นโกคุของญี่ปุ่น",
+    "price": 220,
+    "release_date": "201-03-22",
+    "publisher_id": 2,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Ghost of Tsushima",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Jin Sakai ซามูไรผู้ยอมละทิ้งวิถีแห่งเกียรติยศเพื่อกลายเป็นวิญญาณสู้กับผู้รุกราน",
+    "price": 220,
+    "release_date": "2020-02-1",
+    "publisher_id": 3,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Dark Souls III",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "จุดจบของซีรีส์ Dark Souls ท้าทายความสามารถในการเอาชีวิตรอดในโลกอันมืดมน",
+    "price": 1500,
+    "release_date": "2016-03-24",
+    "publisher_id": 2,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Animal Crossing: New Horizons",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "สร้างและตกแต่งเกาะส่วนตัว ตกปลา จับแมลง และใช้ชีวิตสโลว์ไลฟ์อย่างอิสระ",
+    "price": 220,
+    "release_date": "2020-03-20",
+    "publisher_id": 1,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Nier: Automata",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "หุ่นแอนดรอยด์ 2B และ 2S ต่อสู้ในสงครามตัวแทนเพื่อยึดคืนโลกจากจักรกลทหาร",
+    "price": 1320,
+    "release_date": "201-02-23",
+    "publisher_id": 1,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Death Stranding",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "Sam Porter Bridges ต้องเชื่อมต่อสังคมที่ล่มสลายให้กลับมาเป็นหนึ่งเดียวกันอีกครั้ง",
+    "price": 1420,
+    "release_date": "201-2-01",
+    "publisher_id": 3,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Devil May Cry 5",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "การกลับมาของเหล่าเหล่านนักล่าปีศาจ Nero, Dante และ V ในแอ็กชันสุดสไลลิช",
+    "price": 220,
+    "release_date": "201-03-01",
+    "publisher_id": 2,
+    "developer_id": 1,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "It Takes Two",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมผจญภัยร่วมมือ Co-op ของคู่รักที่ถูกเปลี่ยนเป็นตุ๊กตาและต้องหากระบวนการกลับเป็นคน",
+    "price": 10,
+    "release_date": "2021-03-26",
+    "publisher_id": 16,
+    "developer_id": 2,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  },
+  {
+    "game_name": "Dead by Daylight",
+    "img_game_url": "https://s.isanook.com/ga/0/ud/204/10022/rov_img01.jpg?ip/crop/w620h402/q1/jpg",
+    "description": "เกมสยองขวัญแบบ 4v1 โดยผู้รอดชีวิต 4 คนต้องร่วมมือกันหนีจากฆาตกรสุดโหด 1 คน",
+    "price": 362,
+    "release_date": "2016-06-14",
+    "publisher_id": 1,
+    "developer_id": 3,
+    "download_url": "https://play.google.com/store/apps/details?id=com.garena.game.kgth"
+  }
+]
