@@ -1,7 +1,7 @@
 // สร้างฟังก์ชันรับค่าเพื่อเปลี่ยน URL แบบไดนามิก
-const fetchGames = async (searchQuery = "", page = 1, limit = 10) => {
+const fetchGames = async (searchQuery = "", page = 1, limit = 10, sortBy = "game_id", sortOrder = "DESC") => {
     // ใช้ Template Literals ประกอบ URL พร้อม Query Parameters
-    const url = `http://localhost:2001/game/search?q=${searchQuery}&page=${page}&limit=${limit}`;
+    const url = `http://localhost:2001/game/search?q=${searchQuery}&page=${page}&limit=${limit}&sortBy=${sortBy}&sortOrder=${sortOrder}`;
 
     try {
         const response = await fetch(url, {
@@ -27,10 +27,10 @@ const fetchGames = async (searchQuery = "", page = 1, limit = 10) => {
 // --- ตัวอย่างการเรียกใช้งาน ---
 
 // 1. โหลดข้อมูลครั้งแรก (หน้า 1)
-fetchGames("", 1, 10);
+//fetchGames("", 1, 10, "game_name", "ASC");
 
-// 2. เมื่อผู้ใช้พิมพ์หาคำว่า "mario"
-// fetchGames("mario", 1, 10);
+// 2. เรียงตามราคา (จากแพงไปถูก)
+//fetchGames("", 1, 10, "price", "DESC");
 
-// 3. เมื่อผู้ใช้กดปุ่ม Load More เพื่อดูหน้า 2
-// fetchGames("", 2, 10);
+// 3. เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดไปเก่า)
+fetchGames("", 1, 10, "release_date", "DESC");
